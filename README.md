@@ -7,3 +7,14 @@ Then it appears that his program can classify food only as "Hot dog" and "Not ho
 But thankfully we live in 21st century, when humanity evolved to... create such dataset. <br>
 
 So this is a repository of seefood project by Venchislav (inspired by Jian Yang)
+___
+<H1>TOOLS</H1> <br>
+TensorFlow Keras:
+<img src='https://posit.co/wp-content/uploads/2022/10/thumbnail-6.png' width=40%><br>
+Google CoLab:
+<img src='https://colab.research.google.com/img/colab_favicon_256px.png'><br>
+LIBRARIES:
+NumPy
+Pandas
+Matplotlib, Seaborn
+Scikit Learn
