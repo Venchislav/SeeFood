@@ -13,8 +13,10 @@ TensorFlow Keras:
 <img src='https://posit.co/wp-content/uploads/2022/10/thumbnail-6.png' width=40%><br>
 Google CoLab:
 <img src='https://colab.research.google.com/img/colab_favicon_256px.png'><br>
-LIBRARIES:
-NumPy
-Pandas
-Matplotlib, Seaborn
-Scikit Learn
+LIBRARIES: <br>
+NumPy <br>
+Pandas <br>
+Matplotlib, Seaborn <br>
+Scikit Learn <br>
+
+<img src='https://i.redd.it/j3zzteqn9t461.jpg' width=30%>
