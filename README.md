@@ -1,2 +1,9 @@
 # SeeFood
-Inspired by Silicon Valley series. GUI Application for hot dog and not hot dog classification.
+Inspired by Silicon Valley series. GUI Application for hot dog and not hot dog classification. <br>
+<img src='https://variety.com/wp-content/uploads/2014/03/siliconvalley04.jpg' width=55%> <br>
+____
+IN S04E04 Jian Yang shows his Machine Learning based application for food classification with CV. <br>
+Then it appears that his program can classify food only as "Hot dog" and "Not hot dog". <br>
+But thankfully we live in 21st century, when humanity evolved to... create such dataset. <br>
+
+So this is a repository of seefood project by Venchislav (inspired by Jian Yang)
