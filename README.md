@@ -19,4 +19,6 @@ Pandas <br>
 Matplotlib, Seaborn <br>
 Scikit Learn <br>
 
-<img src='https://i.redd.it/j3zzteqn9t461.jpg' width=30%>
+<img src='https://i.redd.it/j3zzteqn9t461.jpg' width=30%> <br>
+P.S it's still in my plans, but now I'm only studying deep learning for computer vision 37 hours tutorial:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IA3WxTTPXqQ?si=1HG4xkXv2YNMvw67" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
