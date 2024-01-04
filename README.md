@@ -25,4 +25,4 @@ P.S it's still in my plans, but now I'm only studying deep learning for computer
 UPD from 22.12.23 23:40
 I found a nice CNN tutorial <img src='https://media.tenor.com/EQflCSqedPkAAAAM/clash-royale-heheheha.gif' width=2%><br>
 Got new books for deep learning and algos... The great things are coming
-P.S Today I'll try to finish this project
+P.S P.s I changed my mind bruh
